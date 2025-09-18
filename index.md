@@ -79,3 +79,10 @@ layout: default
 
 　　希望这份指南能让你在利比里亚的旅程更加顺畅。通讯畅通了，你才能更安心地去探索这个充满活力和故事的国家。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Liberia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/liberia-data-plans)
